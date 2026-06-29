@@ -1,6 +1,6 @@
 # 📝 Palindrome Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/palindrome-number)
+🔗 [Problem Link](https://leetcode.com/problems/palindrome-number/solutions/?envType=problem-list-v2&envId=dviwysqd)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
