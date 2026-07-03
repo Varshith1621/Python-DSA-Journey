@@ -8,7 +8,7 @@
 Hash Table, Math, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
