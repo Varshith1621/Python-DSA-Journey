@@ -1,6 +1,6 @@
 # 📝 Longest Common Prefix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-common-prefix/?envType=problem-list-v2&envId=dviwysqd)
+🔗 [Problem Link](https://leetcode.com/problems/longest-common-prefix)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, String, Trie
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
