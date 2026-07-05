@@ -1,6 +1,6 @@
 # 📝 Add Two Numbers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/add-two-numbers/?envType=problem-list-v2&envId=dvtjzuzr)
+🔗 [Problem Link](https://leetcode.com/problems/add-two-numbers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
