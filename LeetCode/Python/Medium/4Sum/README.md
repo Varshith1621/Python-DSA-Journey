@@ -1,6 +1,6 @@
 # 📝 4Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/4sum/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/4sum/solutions/8545/python-140ms-beats-100-and-works-for-n-s-tdnw/?envType=problem-list-v2&envId=array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
