@@ -1,5 +1,5 @@
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    def threeSum(self, nums) :
         target = 0
         nums.sort()
         s = set()
