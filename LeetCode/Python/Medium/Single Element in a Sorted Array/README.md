@@ -1,6 +1,6 @@
 # 📝 Single Element in a Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/single-element-in-a-sorted-array)
+🔗 [Problem Link](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
